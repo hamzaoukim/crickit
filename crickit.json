@@ -1,5 +1,5 @@
 {
   "showInterstitialAd": true,
-  "maxBackButtonPressCount": 7,
+  "maxBackButtonPressCount": 0,
   "websiteUrl": "https://sites.google.com/view/benefits-of-banana/home"
 }
